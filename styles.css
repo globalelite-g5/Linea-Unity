@@ -110,7 +110,7 @@ body{
 
 header{
     height: 100vh;
-    /* background-image: url(../Linea-Unity2/img/macha1_.jpg); */
+    background-image: url(../Linea-Unity2/img/macha1_.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
