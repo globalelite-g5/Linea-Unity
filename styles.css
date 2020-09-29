@@ -11,15 +11,6 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-.navbar {
-    background: rgba(0, 0, 0, 0.6);
-  }
-  
-.navbar-brand img {
-    height: 2rem;
-  }
-  
-
 .contenedor{
     width: 90%;
     max-width: 1200px;
